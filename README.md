@@ -8,7 +8,7 @@
   - :books: I studied at <a href="https://www.s19.be/">19 Coding School</a> from <a href="https://42.fr/">Network 42</a> where I learned C and C ++.<br />
   - :office: I am currently working for <a href="https://webworld.be/">@Web_World</a> as Junior Fullstack<br />
   - :yellow_heart: I mainly like python and javascript.<br />
-  - 📫 Reach me at : alyovaski@gmail.com<br />
+  - 📫 Reach me at : <a href = "mailto: alyovaski@gmail.com">alyovaski@gmail.com</a><br />
 <br />
 
 <div>
