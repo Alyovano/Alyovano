@@ -9,7 +9,7 @@
   - :books: I studied at <a href="https://www.s19.be/">19 Coding School</a> from <a href="https://42.fr/">Network 42</a> where I learned C and C ++.<br />
   - :yellow_heart: I mainly like python and javascript.<br />
   - 📫 Reach me at : <a href = "mailto: alyovaski@gmail.com">alyovaski@gmail.com</a><br />
-  - https://www.linkedin.com/in/alexis-yovanofski/
+  - :busts_in_silhouette: Add me: https://www.linkedin.com/in/alexis-yovanofski/
 <br />
 
 <div>
