@@ -11,7 +11,7 @@
   - 📫 Reach me at : <a href = "mailto: alyovaski@gmail.com">alyovaski@gmail.com</a><br />
   - :busts_in_silhouette: Add me: https://www.linkedin.com/in/alexis-yovanofski/
 <br />
-
+<br />
 <div>
   <img width="26px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="26px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
